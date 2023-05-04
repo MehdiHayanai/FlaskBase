@@ -5,20 +5,21 @@ Requirements
 
 To run this Flask application, you need to have the following software installed on your system:
 
-    * Python 3.6 or higher
-    * Flask (you can install it using pip)
+*Python 3.6 or higher
+*Flask (you can install it using pip)
 
+1. Clone this repository to your local machine:
 ```bash
 git clone https://github.com/gadzit/flask-setup.git
 ```
 
-Change into the project directory
+2. Change into the project directory
 
 ```bash
 cd flask-setup
 ```
 
-Install the required dependencies:
+3. Install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
