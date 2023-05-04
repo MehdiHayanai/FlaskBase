@@ -5,8 +5,8 @@ Requirements
 
 To run this Flask application, you need to have the following software installed on your system:
 
-*Python 3.6 or higher
-*Flask (you can install it using pip)
+* Python 3.6 or higher
+* Flask (you can install it using pip)
 
 1. Clone this repository to your local machine:
 ```bash
