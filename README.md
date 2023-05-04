@@ -11,7 +11,7 @@ To run this Flask application, you need to have the following software installed
 
  1. Clone this repository to your local machine:
 ```bash
-git clone https://github.com/gadzit/flask-setup.git
+git clone https://github.com/gadzit-developers/FlaskBase.git
 ```
 
  2. Change into the project directory
