@@ -5,9 +5,21 @@ Requirements
 
 To run this Flask application, you need to have the following software installed on your system:
 
-* Python 3.6 or higher
-* Flask (you can install it using pip)
+  * Python 3.6 or higher
+  * Flask (you can install it using pip)
 
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
+-OR-
+
+ Markup : - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
+          
 1. Clone this repository to your local machine:
 ```bash
 git clone https://github.com/gadzit/flask-setup.git
