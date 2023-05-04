@@ -8,30 +8,19 @@ To run this Flask application, you need to have the following software installed
   * Python 3.6 or higher
   * Flask (you can install it using pip)
 
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
 
--OR-
-
- Markup : - Bullet list
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2 
-          
-1. Clone this repository to your local machine:
+ 1. Clone this repository to your local machine:
 ```bash
 git clone https://github.com/gadzit/flask-setup.git
 ```
 
-2. Change into the project directory
+ 2. Change into the project directory
 
 ```bash
 cd flask-setup
 ```
 
-3. Install the required dependencies:
+ 3. Install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
